@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Quoc Anh (aka Cemu)
+# 👋 Hi, I'm Quoc Anh (aka Cemu0)
 
 ## 🚀 About Me
 I'm a **Software Engineer** with a passion for **backend development, AI integration, and embedded systems**. With experience leading projects at AI startups, I've built **APIs, DevOps pipelines, AI-powered applications, or just a bunch of random stuff**. I love tackling complex problems and optimizing performance in distributed systems. 
